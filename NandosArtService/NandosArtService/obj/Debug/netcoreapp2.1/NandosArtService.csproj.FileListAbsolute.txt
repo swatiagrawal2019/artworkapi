@@ -1,0 +1,15 @@
+C:\Swati\Nando\NandosArtService-Code\NandosArtService\NandosArtService\bin\Debug\netcoreapp2.1\NandosArtService.deps.json
+C:\Swati\Nando\NandosArtService-Code\NandosArtService\NandosArtService\bin\Debug\netcoreapp2.1\NandosArtService.runtimeconfig.json
+C:\Swati\Nando\NandosArtService-Code\NandosArtService\NandosArtService\bin\Debug\netcoreapp2.1\NandosArtService.runtimeconfig.dev.json
+C:\Swati\Nando\NandosArtService-Code\NandosArtService\NandosArtService\bin\Debug\netcoreapp2.1\NandosArtService.dll
+C:\Swati\Nando\NandosArtService-Code\NandosArtService\NandosArtService\bin\Debug\netcoreapp2.1\NandosArtService.pdb
+C:\Swati\Nando\NandosArtService-Code\NandosArtService\NandosArtService\obj\Debug\netcoreapp2.1\NandosArtService.csprojAssemblyReference.cache
+C:\Swati\Nando\NandosArtService-Code\NandosArtService\NandosArtService\obj\Debug\netcoreapp2.1\NandosArtService.csproj.CoreCompileInputs.cache
+C:\Swati\Nando\NandosArtService-Code\NandosArtService\NandosArtService\obj\Debug\netcoreapp2.1\NandosArtService.RazorAssemblyInfo.cache
+C:\Swati\Nando\NandosArtService-Code\NandosArtService\NandosArtService\obj\Debug\netcoreapp2.1\NandosArtService.RazorAssemblyInfo.cs
+C:\Swati\Nando\NandosArtService-Code\NandosArtService\NandosArtService\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Swati\Nando\NandosArtService-Code\NandosArtService\NandosArtService\obj\Debug\netcoreapp2.1\NandosArtService.AssemblyInfoInputs.cache
+C:\Swati\Nando\NandosArtService-Code\NandosArtService\NandosArtService\obj\Debug\netcoreapp2.1\NandosArtService.AssemblyInfo.cs
+C:\Swati\Nando\NandosArtService-Code\NandosArtService\NandosArtService\obj\Debug\netcoreapp2.1\NandosArtService.RazorTargetAssemblyInfo.cache
+C:\Swati\Nando\NandosArtService-Code\NandosArtService\NandosArtService\obj\Debug\netcoreapp2.1\NandosArtService.dll
+C:\Swati\Nando\NandosArtService-Code\NandosArtService\NandosArtService\obj\Debug\netcoreapp2.1\NandosArtService.pdb
